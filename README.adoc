@@ -1,0 +1,12 @@
+# Framer Starter
+
+image::./static/images/screenshot.png[]
+
+= 如何使用？
+
+TIP: 把本仓库克隆下来，然后运行以下命令，会自动打开 http://localhost:8080
+
+---- 
+npm install
+npm run start
+----
