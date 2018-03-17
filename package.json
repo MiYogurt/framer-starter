@@ -10,13 +10,14 @@
     "start": "concurrently \"npm run compile:watch\" \"npm run serve\""
   },
   "devDependencies": {
-    "rollup-plugin-coffee-script": "^2.0.0",
     "coffee": "^4.1.0",
     "coffeescript": "^2.2.3",
     "live-server": "^1.2.0",
     "npm-run-all": "^4.1.2",
     "rollup": "^0.56.5",
+    "rollup-plugin-coffee-script": "^2.0.0",
     "rollup-plugin-commonjs": "^9.1.0",
-    "rollup-plugin-node-resolve": "^3.2.0"
+    "rollup-plugin-node-resolve": "^3.2.0",
+    "rollup-plugin-typescript": "^0.8.1"
   }
 }
